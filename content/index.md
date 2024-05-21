@@ -2,4 +2,5 @@
 status: public
 ---
 
-[[Дополнительная работа №1]]
+[[content/ITMO/evm/index|index]]
+[[content/ITMO/algo/index|index]]
