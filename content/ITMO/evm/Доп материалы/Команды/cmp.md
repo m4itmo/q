@@ -22,6 +22,7 @@ CMP операнд1, операнд2
 
 ### Пример работы CMP
 
+[[Пример CMP, регистры после её выполнения]]
 Рассмотрим простой пример на языке ассемблера x86:
 
 ```asm
@@ -39,6 +40,7 @@ cmp ax, bx    ; сравнить AX с BX
 ### Использование CMP с условными переходами
 
 Команда CMP часто используется вместе с условными переходами, такими как JE (Jump if Equal), JNE (Jump if Not Equal), JL (Jump if Less), JLE (Jump if Less or Equal), JG (Jump if Greater) и JGE (Jump if Greater or Equal).
+[[Пример je, jl, jle, jg, jge]]
 
 Пример:
 
